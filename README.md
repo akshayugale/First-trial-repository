@@ -1,2 +1,2 @@
 # First-trial-repository
-This is my firs github repository
+This is my first github repository - edited
